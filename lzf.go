@@ -3,9 +3,9 @@
  * Copyright (c) 2024 ZengLy <zenor.zly@gmail.com>
  * All rights reserved.
  *
- * A rewrite of the C# version of Chase Pettit lzf with Go:
- * https://github.com/Chaser324/LZF/blob/master/CLZF2.cs
- * Copyright (c) 2010 Chase Pettit <chasepettit@gmail.com>
+ * A rewrite of the Go version of zenor lzf :
+ * https://github.com/zenghnn/lzf
+ * Copyright (c) 2010 zenor <zenor.zly@gmail.com>
  */
 
 package lzf
